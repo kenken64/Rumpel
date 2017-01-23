@@ -11,7 +11,7 @@ export class IAppConfig {
 }
 
 export const AppConfig: IAppConfig = {
-  version: '1.2.1',
+  version: '1.2.2',
   market: {
     url: 'https://marketsquare.hubofallthings.com/api',
     id: 'b6673e46-9246-4135-905e-c275e01e6b5d',
